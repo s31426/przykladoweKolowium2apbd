@@ -1,0 +1,6 @@
+@przykladoweKolowium2apbd_HostAddress = http://localhost:5026
+
+GET {{przykladoweKolowium2apbd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
