@@ -1,0 +1,1 @@
+# przykladoweKolowium2apbd
