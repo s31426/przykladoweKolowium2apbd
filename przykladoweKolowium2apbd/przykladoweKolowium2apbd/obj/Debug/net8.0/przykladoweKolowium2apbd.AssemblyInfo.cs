@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("przykladoweKolowium2apbd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65a5dca32d1de4bd7764755e045e441fa388adbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+633fa8b5104fe3a48ebca6a57d934f6bfffbcd3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("przykladoweKolowium2apbd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("przykladoweKolowium2apbd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
